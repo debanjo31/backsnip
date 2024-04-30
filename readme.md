@@ -30,9 +30,7 @@ Code-Magic is licensed under the MIT License - see the [LICENSE](LICENSE) file f
 
 ## 💪🏽 Thanks to all Contributors
 
-Thanks a lot for spending your time helping Code-Magic grow. Thanks a lot! Keep rocking🍻
-
-<!-- [![Contributors](https://contrib.rocks/image?repo=Dun-sin/Code-Magic)](https://github.com/Dun-sin/Code-Magic/graphs/contributors) -->
+Thanks a lot for spending your time helping Back snip grow. Thanks a lot! Keep rocking🍻
 
 ## 🙏🏽 Support
 
