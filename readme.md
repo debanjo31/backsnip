@@ -2,11 +2,12 @@
 
 Backsnip-ro contains a collection of pre-written solutions for common backend development tasks, covering various programming languages and frameworks. The goal is to provide a centralized resource for developers to find and reuse solutions, promoting efficiency and collaboration.
 
-## Table of Contents
+## 👇🏽 Table of Contents
 
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage](#Usage)
+- [Community](#Community)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Usage
 
