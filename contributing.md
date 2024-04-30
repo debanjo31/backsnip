@@ -1,61 +1,31 @@
 # Contributing to Back Snip
 
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+We love your input! Contributions from anyone is highly welcomed, Before you start
 
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+## Before you start
 
-## We Develop with Github
+- Please familiarize yourself with the repository's structure and content.
+- Read the README files in each solution directory for specific guidelines.
+- Check the issues and pull requests to see if someone is already working on your idea.
 
-We use github to host code, to track issues and feature requests, as well as accept pull requests.
-
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-
-Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
+## How to contribute
 
 1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that pull request!
+2. Create a new branch: Make changes in a separate branch, not in the main branch (master).
+3. Write clear, concise, and well-documented code: Follow the existing coding style and include comments
+4. Open a pull request: Share your changes with the community and explain what you've done.
+5. Participate in code reviews: Engage with maintainers and other contributors to refine your work.
+
+## Code of Conduct
+
+- Be respectful and inclusive
+- Keep discussions constructive and focused
+- No personal attacks or harassment
 
 ## Any contributions you make will be under the MIT Software License
 
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
-
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/briandk/transcriptase-atom/issues/new); it's that easy!
-
-## Write bug reports with detail, background, and sample code
-
-[This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report I wrote, and I think it's not a bad model. Here's [another example from a project](https://github.com/mpreziuso/passwordGenerator) I contributed to.
-
-**Great Bug Reports** tend to have:
-
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Give sample code if you can.
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
-People _love_ thorough bug reports. I'm not even kidding.
-
-## Use a Consistent Coding Style
-
-- 2 spaces for indentation rather than tabs
-- You can try running `npm run lint` for style unification
-
 ## License
 
 By contributing, you agree that your contributions will be licensed under its MIT License.
-
-## References
-
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js)
