@@ -1,6 +1,6 @@
 # Contributing to Back Snip
 
-We love your input! Contributions from anyone is highly welcomed, Before you start
+We love your input! Contributions from anyone is highly welcomed.
 
 ## Before you start
 
@@ -10,7 +10,7 @@ We love your input! Contributions from anyone is highly welcomed, Before you sta
 
 ## How to contribute
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo.
 2. Create a new branch: Make changes in a separate branch, not in the main branch (master).
 3. Write clear, concise, and well-documented code: Follow the existing coding style and include comments
 4. Open a pull request: Share your changes with the community and explain what you've done.
