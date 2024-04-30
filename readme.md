@@ -4,10 +4,10 @@ Backsnip-ro contains a collection of pre-written solutions for common backend de
 
 ## 👇🏽 Table of Contents
 
-- [Usage](#Usage)
-- [Community](#Community)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Usage](#usage)
+- [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Usage
 
