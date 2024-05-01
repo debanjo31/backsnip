@@ -9,7 +9,7 @@ Backsnip-ro contains a collection of pre-written solutions for common backend de
 - [Contributing](#contributing)
 - [License](#license)
 
-## Usage
+## 👨‍💻 Usage
 
 - Browse the language-specific directories (e.g., Python, Java, Node.js) to find solutions for your project.
 - Read the README files within each solution directory for implementation instructions and requirements.

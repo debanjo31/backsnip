@@ -1,6 +1,6 @@
 # Contributing to Back Snip
 
-We love your input! Contributions from anyone is highly welcomed.
+We would love to have your input!. We welcome contributions from anyone, whether you're a seasoned developer or just starting out. Your input helps make this repository a valuable resource for the community.
 
 ## Before you start
 
@@ -22,9 +22,9 @@ We love your input! Contributions from anyone is highly welcomed.
 - Keep discussions constructive and focused
 - No personal attacks or harassment
 
-## Any contributions you make will be under the MIT Software License
+## Contributions License
 
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+When you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## License
 
