@@ -17,7 +17,7 @@ Backsnip-ro contains a collection of pre-written solutions for common backend de
 
 ## 👨‍👩‍👦 Community
 
-Don't forget to join the discord community - [Join us](https://chat.whatsapp.com/Ggt9uQGrGg3K2XeqcMhCCs)
+Don't forget to join the discord community - [Join us](https://join.slack.com/t/backsnip/shared_invite/zt-2i0qa6xcy-uguNdePbHrI5lbwIOFZuVg)
 
 ## 👩🏽‍💻 Contributing
 
