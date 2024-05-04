@@ -24,7 +24,7 @@ This directory contains a collection of pre-written backend solutions written in
   - String Manipulation and Formatting
   - Date and Time Manipulation
   - File and Directory Management
-- Payment
+- Payment Solutions
 
 ## 👨‍💻 Usage
 
