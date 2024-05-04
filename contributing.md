@@ -13,8 +13,9 @@ We would love to have your input!. We welcome contributions from anyone, whether
 1. Fork the repo.
 2. Create a new branch: Make changes in a separate branch, not in the main branch (master).
 3. Write clear, concise, and well-documented code: Follow the existing coding style and include comments
-4. Open a pull request: Share your changes with the community and explain what you've done.
-5. Participate in code reviews: Engage with maintainers and other contributors to refine your work.
+4. Create a readme, then breifly describe what you have done, list the feature and state step-by-step instruction on how to use the code.
+5. Open a pull request: Share your changes with the community.
+6. Participate in code reviews: Engage with maintainers and other contributors to refine your work.
 
 ## Code of Conduct
 
