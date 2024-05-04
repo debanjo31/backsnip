@@ -1,6 +1,6 @@
 # Back Snip - Rust
 
-This directory contains a collection of pre-written backend solutions written in Python. Each solution is a self-contained example, with its own README file providing detailed implementation instructions and requirements.
+This directory contains a collection of pre-written backend solutions written in Rust. Each solution is a self-contained example, with its own README file providing detailed implementation instructions and requirements.
 
 ## Directory Structure
 
