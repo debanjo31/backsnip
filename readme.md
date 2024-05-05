@@ -1,6 +1,6 @@
 # Back Snip
 
-Backsnip-ro contains a collection of pre-written solutions for common backend development tasks, covering various programming languages and frameworks. The goal is to provide a centralized resource for developers to find and reuse solutions, promoting efficiency and collaboration.
+Backsnip contains a collection of pre-written solutions for common backend development tasks, covering various programming languages and frameworks. The goal is to provide a centralized resource for developers to find and reuse solutions, promoting efficiency and collaboration.
 
 ## 👇🏽 Table of Contents
 
@@ -11,7 +11,7 @@ Backsnip-ro contains a collection of pre-written solutions for common backend de
 
 ## 👨‍💻 Usage
 
-- Browse the language-specific directories (e.g., Python, Java, Node.js) to find solutions for your project.
+- Browse the language-specific directories (e.g., Python, Java, Javascript) to find solutions for your project.
 - Read the README files within each solution directory for implementation instructions and requirements.
 - Contribute new solutions or improvements by opening a pull request or issue.
 
@@ -27,11 +27,11 @@ Don't forget to join the discord community - [Join us](https://join.slack.com/t/
 
 ## 🛡️ License
 
-Code-Magic is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Backsnip is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💪🏽 Thanks to all Contributors
 
-Thanks a lot for spending your time helping Back snip grow. Thanks a lot! Keep rocking🍻
+Thanks a lot for spending your time helping Backsnip grow. Thanks a lot! Keep rocking🍻
 
 ## 🙏🏽 Support
 
