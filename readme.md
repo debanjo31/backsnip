@@ -23,7 +23,7 @@ Don't forget to join the discord community - [Join us](https://join.slack.com/t/
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are greatly appreciated.
-- Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
+- Check out our [contribution guidelines](/contributing.md) for more information.
 
 ## 🛡️ License
 
