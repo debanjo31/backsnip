@@ -7,7 +7,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai"; // google gemini api
 configDotenv("");
 
 //! get your own API key from https://aistudio.google.com/app/apikey
-// once you have your own api key, create a .env file in the  directory of this project
+// once you have your own api key, create a .env file in this project directory
 //! i.e GEMINI-API-Integration/.env
 //! add your api key to the .env file. i.e API_KEY=`your api key`
 const genAI = new GoogleGenerativeAI(
@@ -27,11 +27,16 @@ app.use(express.static("public"));
 // chat endpoint
 app.post("/chat", async (req, res) => {
   let { prompt } = req.body;
+  if (prompt){
   console.log("prompt:", prompt);
   const result = await model.generateContent(prompt); // fetching result from GEMINI API
   console.log("response:", result.response.text());
   res.send({ prompt, response: result.response.text() });
+  } else {
+      res.send({ prompt, response: "Enter prompt message" });
+
+  }
 });
 
-const port = "3000";
-app.listen(port, () => console.log("started"));
+const port = 3000;
+app.listen(port, () => console.log(`server running on: http://localhost:${port}`));
