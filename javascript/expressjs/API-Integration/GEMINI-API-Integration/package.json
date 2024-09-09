@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-api-integration",
+  "name": "gemini-api-integration",
   "version": "1.0.0",
   "description": "A chatgpt api  integrated with Expressjs project",
   "main": "index.js",
