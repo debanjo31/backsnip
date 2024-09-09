@@ -1,0 +1,27 @@
+{
+  "name": "chatgpt-api-intergration",
+  "version": "1.0.0",
+  "description": "A chatgpt api  intergrated with expressjs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mumuniazeez/backsniphttps:.git"
+  },
+  "author": "AzCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mumuniazeez/backsniphttps:/issues"
+  },
+  "homepage": "https://github.com/mumuniazeez/backsniphttps:#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.58.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
