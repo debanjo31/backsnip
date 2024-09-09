@@ -1,10 +1,11 @@
 {
-  "name": "chatgpt-api-intergration",
+  "name": "chatgpt-api-integration",
   "version": "1.0.0",
-  "description": "A chatgpt api  intergrated with expressjs project",
+  "description": "A chatgpt api  integrated with Expressjs project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "nodemon index"
+    "start": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -17,9 +18,9 @@
   },
   "homepage": "https://github.com/mumuniazeez/backsniphttps:#readme",
   "dependencies": {
+    "@google/generative-ai": "^0.17.1",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "openai": "^4.58.1"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
