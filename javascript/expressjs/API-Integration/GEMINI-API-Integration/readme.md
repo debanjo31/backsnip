@@ -45,5 +45,6 @@ Returns an object with the following properties:
 
 To run this project, follow these steps:
 
-1. cd into this project directory i.e `javascript\expressjs\API-Integration\GEMINI-API-Integration`
+1. open this project directory i.e `javascript\expressjs\API-Integration\GEMINI-API-Integration` in your Terminal.
+2. Install all required modules. Use the `npm i` command to install. Note once you have installed required modules, you don't have to install it again.
 2. run `npm start`
